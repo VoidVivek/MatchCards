@@ -1,0 +1,17 @@
+D:\MatchCards\MatchCards\MatchCards\obj\Debug\MatchCardsWindow.baml
+D:\MatchCards\MatchCards\MatchCards\obj\Debug\MatchCardsWindow.g.cs
+D:\MatchCards\MatchCards\MatchCards\obj\Debug\App.g.cs
+D:\MatchCards\MatchCards\MatchCards\obj\Debug\MatchCards_MarkupCompile.cache
+D:\MatchCards\MatchCards\MatchCards\obj\Debug\MatchCards.g.resources
+D:\MatchCards\MatchCards\MatchCards\obj\Debug\MatchCards.Properties.Resources.resources
+D:\MatchCards\MatchCards\MatchCards\obj\Debug\MatchCards.csproj.GenerateResource.Cache
+D:\MatchCards\MatchCards\MatchCards\bin\Debug\MatchCards.exe.config
+D:\MatchCards\MatchCards\MatchCards\bin\Debug\MatchCards.exe
+D:\MatchCards\MatchCards\MatchCards\bin\Debug\MatchCards.pdb
+D:\MatchCards\MatchCards\MatchCards\obj\Debug\MatchCards.exe
+D:\MatchCards\MatchCards\MatchCards\obj\Debug\MatchCards.pdb
+D:\MatchCards\MatchCards\MatchCards\obj\Debug\MatchCards.csprojResolveAssemblyReference.cache
+D:\MatchCards\MatchCards\MatchCards\obj\Debug\Views\ActualMatchCardsPage.baml
+D:\MatchCards\MatchCards\MatchCards\obj\Debug\Views\ActualMatchCardsPage.g.cs
+D:\MatchCards\MatchCards\MatchCards\obj\Debug\MatchCards_MarkupCompile.lref
+D:\MatchCards\MatchCards\MatchCards\obj\Debug\GeneratedInternalTypeHelper.g.cs
