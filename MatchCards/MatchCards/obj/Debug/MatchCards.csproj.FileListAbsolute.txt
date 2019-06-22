@@ -15,3 +15,20 @@ D:\MatchCards\MatchCards\MatchCards\obj\Debug\Views\ActualMatchCardsPage.baml
 D:\MatchCards\MatchCards\MatchCards\obj\Debug\Views\ActualMatchCardsPage.g.cs
 D:\MatchCards\MatchCards\MatchCards\obj\Debug\MatchCards_MarkupCompile.lref
 D:\MatchCards\MatchCards\MatchCards\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vivek Singh\GitHub\MatchCards\MatchCards\bin\Debug\MatchCards.exe.config
+C:\Users\Vivek Singh\GitHub\MatchCards\MatchCards\obj\Debug\MatchCards.exe
+C:\Users\Vivek Singh\GitHub\MatchCards\MatchCards\obj\Debug\MatchCards.pdb
+C:\Users\Vivek Singh\GitHub\MatchCards\MatchCards\bin\Debug\MatchCards.exe
+C:\Users\Vivek Singh\GitHub\MatchCards\MatchCards\bin\Debug\MatchCards.pdb
+C:\Users\Vivek Singh\GitHub\MatchCards\MatchCards\obj\Debug\MatchCards.csprojResolveAssemblyReference.cache
+C:\Users\Vivek Singh\GitHub\MatchCards\MatchCards\obj\Debug\MatchCardsWindow.g.cs
+C:\Users\Vivek Singh\GitHub\MatchCards\MatchCards\obj\Debug\Views\ActualMatchCardsPage.g.cs
+C:\Users\Vivek Singh\GitHub\MatchCards\MatchCards\obj\Debug\App.g.cs
+C:\Users\Vivek Singh\GitHub\MatchCards\MatchCards\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vivek Singh\GitHub\MatchCards\MatchCards\obj\Debug\MatchCards_MarkupCompile.cache
+C:\Users\Vivek Singh\GitHub\MatchCards\MatchCards\obj\Debug\MatchCards_MarkupCompile.lref
+C:\Users\Vivek Singh\GitHub\MatchCards\MatchCards\obj\Debug\MatchCardsWindow.baml
+C:\Users\Vivek Singh\GitHub\MatchCards\MatchCards\obj\Debug\Views\ActualMatchCardsPage.baml
+C:\Users\Vivek Singh\GitHub\MatchCards\MatchCards\obj\Debug\MatchCards.g.resources
+C:\Users\Vivek Singh\GitHub\MatchCards\MatchCards\obj\Debug\MatchCards.Properties.Resources.resources
+C:\Users\Vivek Singh\GitHub\MatchCards\MatchCards\obj\Debug\MatchCards.csproj.GenerateResource.Cache

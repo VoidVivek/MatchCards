@@ -6,12 +6,50 @@
              xmlns:src="clr-namespace:MatchCards.ClassFiles"
              mc:Ignorable="d" 
              d:DesignHeight="300" d:DesignWidth="300" >
-<UserControl.Resources>
-    <DataTemplate DataType="{x:Type src:DesignClass}">
+    <UserControl.Resources>
+        <DataTemplate DataType="{x:Type src:DesignClass}">
             <Image Source="{Binding GridImage}"></Image>
-    </DataTemplate>
-</UserControl.Resources>
-    <Grid Background="LightGray">
-
+        </DataTemplate>
+    </UserControl.Resources>
+    <Grid Background="Black">
+        <ListView ItemsSource="{Binding list}" Name="listv" MouseEnter="listv_MouseEnter" MouseLeave="listv_MouseLeave">
+            <ListView.Resources>
+                <GridView x:Key="one">
+                    <GridViewColumn Header="ID" >
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding id}" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Name" >
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding name}" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+                <GridView x:Key="two">
+                    <GridViewColumn Header="Name" >
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding name}" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.Resources>
+            <ListView.Style>
+                <Style TargetType="ListView">
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding ViewType}" Value="1">
+                            <Setter Property="View" Value="{StaticResource one}" />
+                        </DataTrigger>
+                    </Style.Triggers>
+                    <Setter Property="View" Value="{StaticResource two}" />
+                </Style>
+            </ListView.Style>
+        </ListView>
     </Grid>
 </UserControl>

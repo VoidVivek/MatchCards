@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\MatchCards\MatchCards\MatchCards\obj\Debug\
+C:\Users\Vivek Singh\GitHub\MatchCards\MatchCards\obj\Debug\
 MatchCards
 none
 false
 DEBUG;TRACE
-D:\MatchCards\MatchCards\MatchCards\App.xaml
+C:\Users\Vivek Singh\GitHub\MatchCards\MatchCards\App.xaml
 28905496
 
-13-1767319712
+132064452012
 12-1401562060
 MatchCardsWindow.xaml;Views\ActualMatchCardsPage.xaml;
 
-True
+False
 
